@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Aayush Raj
 
-<!--
-**aayushd14/aayushd14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a passionate learner and developer who enjoys building projects, exploring new technologies, and continuously improving my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Interested in software development and problem-solving  
+- 🌱 Currently learning and improving my development skills  
+- 🔍 Curious about technology, open-source, and real-world applications  
+- 🤝 Open to collaboration on interesting projects  
+
+---
+
+## 🛠️ Skills & Technologies
+- **Languages:** C, C++, Java, Python (basics)
+- **Web:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, VS Code
+- **Concepts:** Data Structures, Algorithms, OOPs
+
+---
+
+## 📂 Projects
+Here are some of the things you'll find on my GitHub:
+- Practice projects and mini applications  
+- Coding challenges and experiments  
+- Learning-based repositories  
+
+Feel free to explore my repositories to see what I'm working on.
+
+---
+
+## 📈 GitHub Stats
+![Raushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raushan8431&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Raushan8431  
+
+---
+
+⭐ If you like my work, consider starring my repositories!
