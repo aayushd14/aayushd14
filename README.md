@@ -32,12 +32,12 @@ Feel free to explore my repositories to see what I'm working on.
 ---
 
 ## 📈 GitHub Stats
-![Raushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raushan8431&show_icons=true&theme=radical)
+![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushd14&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/Raushan8431  
+- GitHub: https://github.com/aayushd14  
 
 ---
 
